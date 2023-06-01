@@ -1,6 +1,6 @@
 
 let wrapper = document.querySelector('.card-container__wrapper');
-let body = doc.querySelector('tbody');
+let body = document.querySelector('tbody');
 
 //arrays
 let data = [
